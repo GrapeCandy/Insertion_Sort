@@ -36,6 +36,5 @@ INSERTION-SORT (A, n)   ⊳A[1 . . n]
   - Time(n) = θ(n^2)
   - 알고리즘의 for문과 if문을 Worst-case의 절반만큼 소요
 3. Best-case
-
-  정렬된 input값이 들어오는 경우
+  - 정렬된 input값이 들어오는 경우
 
