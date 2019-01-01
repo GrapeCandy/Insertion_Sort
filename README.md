@@ -10,13 +10,29 @@ Insertion_Sort's Algorithm and the way how to make it
 ## Insertion Sort pseudocode
 
 INSERTION-SORT (A, n)   ⊳A[1 . . n]
+
+
   for j ←2 to n
+  
+  
     do key ←A[j]
+    
+    
       i ←j –1
+      
+      
       whilei > 0 and A[i] > key
+      
+      
         doA[i+1] ←A[i]
+        
+        
           i ←i –1
+          
+          
       A[i+1] = key
+      
+      
       
 ## Kind of Analyses
 1. Worst-case
