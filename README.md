@@ -6,7 +6,6 @@ Insertion_Sort's Algorithm and the way how to make it
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Insertion_sort_001.PNG"></img>
 
-
 [출처] https://ko.wikipedia.org/wiki/%EC%82%BD%EC%9E%85_%EC%A0%95%EB%A0%AC
 
 ## Insertion Sort pseudocode
