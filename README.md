@@ -28,7 +28,7 @@ INSERTION-SORT (A, n)   ⊳A[1 . . n]
         A[i+1] = key
       
       
-## Kind of Analyses
+## Analysis
 1. Worst-case
   - Time(n) = θ(n^2)
   - input size n만큼의 시간을 소요
